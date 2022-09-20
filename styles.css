@@ -1,0 +1,17 @@
+.w3-quarter img{
+    border-radius: 50%;
+}
+.img-fluid button{
+    color: aliceblue;
+    background-color: black;
+    border: 5cm;
+}
+.navbar {
+    color:aliceblue;
+    background-color:rgb(52, 52, 52);
+    border: 5cm;
+}
+.navbar button{
+    color: white;
+    background-color: black;
+}
