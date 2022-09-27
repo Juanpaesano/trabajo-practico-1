@@ -6,7 +6,7 @@
     background-color: black;
     border: 5cm;
 }
-.navbar {
+.navbar{
     color:aliceblue;
     background-color:rgb(52, 52, 52);
     border: 5cm;
@@ -14,4 +14,60 @@
 .navbar button{
     color: white;
     background-color: black;
+}
+.foto{
+    border-radius: 25px;
+    padding: 20px; 
+    width: 200px;
+    height: 150px; 
+    border-radius: 50%;
+    border: 5cm;
+}
+.modal-title{
+    background-color: gray;
+}
+
+#h5{
+    color:white
+}
+.row{
+    border-radius: 50%   
+}
+#foto{
+    border-radius: 50%;
+    image-orientation: auto;
+}
+#Nosotros{
+    background-color: rgb(52, 52, 52);
+    text-align: center;
+    color: white;
+    padding: 1cm;
+}
+.btn{
+    background-color: black;
+}
+/*Flecha para hacer la pagina hacia arriba*/
+.ir-arriba{
+    display:none;
+    background-repeat:no-repeat;
+    font-size:20px;
+    color:black;
+    cursor:pointer;
+    position:fixed;
+    bottom:10px;
+    right:10px;
+    z-index:2;
+  }
+  #contacto{
+    padding: auto;
+  }
+#Enviar{
+    color: white;
+    background-color: black;
+    paddin
+}
+#Footer{
+    text-align: center;
+    color: white;
+    padding: auto;
 }
